@@ -1,0 +1,2 @@
+peptide ABC transporter permease [ Deinococcus radiodurans R1 ]
+NP_285531.1

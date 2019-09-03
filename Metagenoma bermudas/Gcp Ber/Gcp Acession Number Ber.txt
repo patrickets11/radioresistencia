@@ -1,0 +1,4 @@
+O-sialoglycoprotein endopeptidase [ Rhodobacter sphaeroides 2.4.1 ]
+YP_351553.1
+putative DNA-binding/iron metalloprotein/AP endonuclease [ Deinococcus radiodurans R1 ]
+NP_294105.1

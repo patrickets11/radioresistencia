@@ -1,0 +1,8 @@
+bacterioferritin comigratory protein [ Desulfovibrio vulgaris str. Hildenborough ]
+YP_010035.2
+bacterioferritin comigratory protein [ Deinococcus radiodurans R1 ]
+NP_294932.1
+bacterioferritin comigratory protein [ Deinococcus radiodurans R1 ]
+NP_294933.1
+bacterioferritin comigratory protein [ Deinococcus radiodurans R1 ]
+NP_294570.1

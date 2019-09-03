@@ -1,0 +1,10 @@
+Desulfovibrio vulgaris str. Hildenborough
+YP_009580.1
+Rhodobacter sphaeroides 2.4.1
+YP_353823.1
+Rhodobacter sphaeroides 2.4.1
+YP_352441.1
+Deinococcus radiodurans R1 
+NP_296303.1
+Geobacter sulfurreducens PCA 
+NP_951625.1

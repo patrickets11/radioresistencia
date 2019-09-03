@@ -1,0 +1,8 @@
+recombinase A [ Desulfovibrio vulgaris str. Hildenborough ]
+YP_010311.1
+recombinase A [ Rhodobacter sphaeroides 2.4.1 ]
+YP_353525.1
+recombinase A [ Deinococcus radiodurans R1 ]
+NP_296061.1
+recombinase A [ Geobacter sulfurreducens PCA ]
+NP_951207.1

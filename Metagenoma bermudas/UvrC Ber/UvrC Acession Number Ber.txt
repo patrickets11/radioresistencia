@@ -1,0 +1,7 @@
+uvrC excinuclease ABC subunit C [ Desulfovibrio vulgaris str. Hildenborough ]
+YP_010022.1
+uvrC Excinuclease ABC subunit C [ Rhodobacter sphaeroides 2.4.1 ]
+YP_354159.1
+uvrC excinuclease ABC subunit C [ Deinococcus radiodurans R1 ]
+NP_295077.1
+

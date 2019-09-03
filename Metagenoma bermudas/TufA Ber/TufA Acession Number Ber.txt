@@ -1,0 +1,2 @@
+tufA Elongation factor Tu (EF-Tu) [ Rhodobacter sphaeroides 2.4.1 ]
+YP_351747.1

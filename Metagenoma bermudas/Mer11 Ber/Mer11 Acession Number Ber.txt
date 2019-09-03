@@ -1,0 +1,9 @@
+Ser/Thr protein phosphatase [ Desulfovibrio vulgaris str. Hildenborough ]
+YP_009295.1
+putative DNA repair exonuclease [ Rhodobacter sphaeroides 2.4.1 ]
+YP_354733.1
+DNA repair exonuclease SbcCD, D subunit [ Geobacter sulfurreducens PCA ]
+NP_952473.1
+DNA repair exonuclease SbcCD, D subunit [ Geobacter sulfurreducens PCA ]
+NP_952774.1
+Não encontrado em Búzios
